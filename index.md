@@ -33,7 +33,7 @@ Data structures and algorithms skills are demonstrated in this enhancement throu
 
 ## **Enhancement One: Software Design and Engineering**
 ### **Enhanced Artifact: Secure Input Processor**
-#### Repository Link
+#### Repository Link:
 
 [Click Here for Enhancement One Repository](https://github.com/jade221488/jade221488.github.io/blob/main/CS499_SoftwareDesignEngineering.zip)
 
@@ -47,7 +47,7 @@ I did meet the course outcomes with this artifact as I was able to design and ev
 
 ## **Enhancement Two: Data Structures and Algorithms**
 ### **Enhanced Artifact: Weight Tracker Mobile Application**
-#### Repository Link
+#### Repository Link:
 
 [Click Here for Enhancement Two Repository](https://github.com/jade221488/jade221488.github.io/blob/main/CS499_DataStructuresandAlgorithms_Databasess.zip)
 
@@ -63,7 +63,7 @@ I met course outcomes three and four in this enhancement as I used algorithmic p
 
 ## **Enhancement Three: Databases**
 ### **Enhanced Artifact: Weight Tracker Mobile Application**
-#### Repository Link
+#### Repository Link:
 
 [Click Here for Enhancement Three Repository](https://github.com/jade221488/jade221488.github.io/blob/main/CS499_DataStructuresandAlgorithms_Databasess.zip)
 
