@@ -32,10 +32,10 @@ Data structures and algorithms skills are demonstrated in this enhancement throu
 ---
 
 ## **Enhancement One: Software Design and Engineering**
-### Enhanced Artifact: Secure Input Processor
-#### **Repository Link**
+### **Enhanced Artifact: Secure Input Processor**
+#### Repository Link
 
-- [Click Here for Enhancement One Repository](https://github.com/jade221488/jade221488.github.io/blob/main/CS499_SoftwareDesignEngineering.zip)
+[Click Here for Enhancement One Repository](https://github.com/jade221488/jade221488.github.io/blob/main/CS499_SoftwareDesignEngineering.zip)
 
 The artifact originally identifies and demonstrates a buffer overflow vulnerability. The program initializes and declares a set input size that limits how much input it can hold. The program then prompts the user for an input. It checks if the user’s input is more characters than what can be held. If the user’s input is too long, then a message will display prompting the user of a buffer overflow error and throws away the remaining characters from the user input that cannot be held and stops the program. If the user’s input fits the parameters of the set input size, then the program will output the user’s input along with the account number. The original artifact came from the course CS405 Secure Coding and was created in April of 2026. 
 	
@@ -46,7 +46,10 @@ I did meet the course outcomes with this artifact as I was able to design and ev
 ---
 
 ## **Enhancement Two: Data Structures and Algorithms**
-### Enhanced Artifact: Weight Tracker Mobile Application
+### **Enhanced Artifact: Weight Tracker Mobile Application**
+#### Repository Link
+
+[Click Here for Enhancement Two Repository](https://github.com/jade221488/jade221488.github.io/blob/main/CS499_DataStructuresandAlgorithms_Databasess.zip)
 
 The artifact is a mobile web application that is a daily weight tracker where the user can create an account, log in, and recover their password. The main screen once logged in displays the user’s weight goal, a progress bar showing how far they are from their goal weight, the estimated time to reach their goal, a prompt for the user to log their daily weight, and a button to navigate to the weight history screen. The weight history screen displays the user’s weight entries they have logged over time. The mobile application was originally from the course CS360 Mobile Architecture and Programming and was created in February of 2026.
 	
@@ -59,7 +62,10 @@ I met course outcomes three and four in this enhancement as I used algorithmic p
 ---
 
 ## **Enhancement Three: Databases**
-### Enhanced Artifact: Weight Tracker Mobile Application
+### **Enhanced Artifact: Weight Tracker Mobile Application**
+#### Repository Link
+
+[Click Here for Enhancement Three Repository](https://github.com/jade221488/jade221488.github.io/blob/main/CS499_DataStructuresandAlgorithms_Databasess.zip)
 
 The artifact is a mobile web application that is a daily weight tracker where the user can create an account, log in, and recover their password. The main screen once logged in displays the user’s weight goal, a progress bar showing how far they are from their goal weight, the estimated time to reach their goal, a prompt for the user to log their daily weight, and a button to navigate to the weight history screen. The weight history screen displays the user’s weight entries they have logged over time. The mobile application was originally from the course CS360 Mobile Architecture and Programming and was created in February of 2026.
 	
